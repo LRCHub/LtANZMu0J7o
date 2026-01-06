@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Missing you feat． 鳳山えり",
+  "base_artist": "Soulja",
+  "createdAt": "2026-01-06T15:41:19.712092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Missing You (feat. Novel) [New Version]",
+      "artist": "David Guetta - Novel",
+      "has_synced": true,
+      "path": "select/01_Missing_You_(feat._Novel)_[New_Version]_David_Guetta_-_Novel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Puff Daddy & the Family",
+      "has_synced": true,
+      "path": "select/02_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Puff_Daddy_&_the_Family.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. 112)",
+      "artist": "Diddy, Faith Evans & 112",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_Missing_You_(feat._112)_Diddy,_Faith_Evans_&_112.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. 112)",
+      "artist": "Puff Daddy, Faith Evans, 112",
+      "has_synced": true,
+      "path": "select/04_I'll_Be_Missing_You_(feat._112)_Puff_Daddy,_Faith_Evans,_112.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. 112)",
+      "artist": "Diddy, Faith Evans, 112",
+      "has_synced": true,
+      "path": "select/05_I'll_Be_Missing_You_(feat._112)_Diddy,_Faith_Evans,_112.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Already Missing You (Feat. Selena Gomez)",
+      "artist": "Prince Royce",
+      "has_synced": true,
+      "path": "select/06_Already_Missing_You_(Feat._Selena_Gomez)_Prince_Royce.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Be Missing You feat. Faith Evans And 112",
+      "artist": "Puff Daddy And The Family",
+      "has_synced": true,
+      "path": "select/07_I'll_Be_Missing_You_feat._Faith_Evans_And_112_Puff_Daddy_And_The_Family.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Missing You (Feat. Novel) (New Version)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/08_Missing_You_(Feat._Novel)_(New_Version)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. 112 & Faith Evans)",
+      "artist": "Diddy",
+      "has_synced": true,
+      "path": "select/09_I'll_Be_Missing_You_(feat._112_&_Faith_Evans)_Diddy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Diddy feat. Faith Evans & 112",
+      "has_synced": false,
+      "path": "select/10_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Diddy_feat._Faith_Evans_&_112.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Diddy & Faith Evans feat. 112",
+      "has_synced": false,
+      "path": "select/11_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Diddy_&_Faith_Evans_feat._112.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Diddy, 112 & Faith Evans",
+      "has_synced": true,
+      "path": "select/12_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Diddy,_112_&_Faith_Evans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Diddy, 112, Faith Evans",
+      "has_synced": true,
+      "path": "select/13_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Diddy,_112,_Faith_Evans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Puff Daddy",
+      "has_synced": true,
+      "path": "select/14_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Puff_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Missing You (feat. Novel)",
+      "artist": "David Guetta - Novel",
+      "has_synced": true,
+      "path": "select/15_Missing_You_(feat._Novel)_David_Guetta_-_Novel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Missing You (Feat. Novel)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/16_Missing_You_(Feat._Novel)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Missing You - feat. Kym Mazelle",
+      "artist": "Soul II Soul feat. Kym Mazelle",
+      "has_synced": false,
+      "path": "select/17_Missing_You_-_feat._Kym_Mazelle_Soul_II_Soul_feat._Kym_Mazelle.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+      "artist": "Diddy/112/Faith Evans",
+      "has_synced": true,
+      "path": "select/18_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_-_2014_Remaster_Diddy_112_Faith_Evans.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (Feat. Faith Evans & 112)",
+      "artist": "Puff Daddy",
+      "has_synced": true,
+      "path": "select/19_I'll_Be_Missing_You_(Feat._Faith_Evans_&_112)_Puff_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "artist": "Diddy, Faith Evans, 112",
+      "has_synced": true,
+      "path": "select/20_I'll_Be_Missing_You_(feat._Faith_Evans_&_112)_Diddy,_Faith_Evans,_112.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Missing you feat.鳳山えり",
+      "artist": "SoulJa",
+      "has_synced": false,
+      "path": "select/pl_01_Missing_you_feat.鳳山えり_SoulJa.txt"
+    }
+  ]
+}
